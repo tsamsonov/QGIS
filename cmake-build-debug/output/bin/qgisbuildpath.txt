@@ -1,0 +1,2 @@
+/Volumes/Data/GitHub/QGIS
+/Volumes/Data/GitHub/QGIS/cmake-build-debug/output
